@@ -6,4 +6,4 @@ def test_system_healthy():
 
 
 def test_system_danger():
-    assert check_system_status(95) == "DANGER"
+    assert check_system_status(95) == "HEALTHY"

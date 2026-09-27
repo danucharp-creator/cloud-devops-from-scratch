@@ -7,3 +7,4 @@ Learning Git, CI/CD, Docker, Terraform, and AWS from the ground up.
 - Git initialized
 - Connected local repository to GitHub
 - SSH authentication configured
+- Edited directly on GitHub for pull practice

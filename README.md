@@ -1,3 +1,9 @@
 # Cloud DevOps From Scratch
 
 Learning Git, CI/CD, Docker, Terraform, and AWS from the ground up.
+
+## Learning Progress
+
+- Git initialized
+- Connected local repository to GitHub
+- SSH authentication configured
